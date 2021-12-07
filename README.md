@@ -1,6 +1,10 @@
 # CSCI2000U_Final_Project_Group_9
 
 # ReadMe File
+
+# IMPORTANT: csv file too large, not uploading to GitHub
+# URL to download HERE: https://www.kaggle.com/sobhanmoosavi/us-accidents?select=US_Accidents_Dec20_updated.csv
+
 ## ****************
 ## * Final Project
 ## * Scientific Data Analysis
