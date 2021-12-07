@@ -4,6 +4,7 @@
 
 # IMPORTANT: csv file too large, not uploading to GitHub
 # URL to download HERE: https://www.kaggle.com/sobhanmoosavi/us-accidents?select=US_Accidents_Dec20_updated.csv
+## HTML file shows report running
 
 ## ****************
 ## * Final Project
